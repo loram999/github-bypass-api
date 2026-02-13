@@ -1,0 +1,8 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+aiohttp==3.9.1
+beautifulsoup4==4.12.2
+requests==2.31.0
+lxml==4.9.3
+# သင့် web_scrapper2.py မှာ သုံးထားတဲ့ libraries အားလုံး ထည့်ပါ
+# telebot မလိုတော့ပါ (web app ဖြစ်လို့)
